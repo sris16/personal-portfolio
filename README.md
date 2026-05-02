@@ -13,6 +13,7 @@ A full-stack, responsive personal portfolio built to showcase projects, skills, 
 ## Tech Stack
 
 **Frontend:**
+
 - HTML5
 - CSS3 / Variables (Custom Properties)
 - JavaScript (ES6+)
@@ -20,6 +21,7 @@ A full-stack, responsive personal portfolio built to showcase projects, skills, 
 - Phosphor Icons
 
 **Backend:**
+
 - Node.js
 - Express.js
 - MongoDB / Mongoose
@@ -38,6 +40,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Installation
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/sris16/personal-portfolio.git
    cd personal-portfolio
@@ -45,6 +48,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 2. **Setup the Backend:**
    Navigate into the `backend` directory and install the dependencies:
+
    ```bash
    cd backend
    npm install
@@ -61,13 +65,18 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. **Start the Backend Server:**
    In the `backend` directory, run:
+
    ```bash
    node server.js
    ```
-   *The server should now be running on `http://localhost:5000`.*
+
+   _The server should now be running on `http://localhost:5000`._
 
 2. **Start the Frontend:**
    Open the `frontend/index.html` file in your browser. For the best experience, use a local server like the **Live Server** extension in VS Code to run the frontend.
+
+3. **After Deployement**
+   the URL is: https://srisakthi-portfolio.netlify.app/
 
 ## Project Structure
 
